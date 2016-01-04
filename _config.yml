@@ -22,16 +22,16 @@ google-tracking-id: "UA-35880426-4"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
 #############
 
 lang: "en"
-author: "John Smith"
-title: "{ John Smith }"
-description: "Blog and website of John Smith, blogging mainly for tech. Opinions expressed are mine."
+author: "Iñigo Iparragirre"
+title: "{ Iñigo Iparragirre }"
+description: "Blog and website of Iñigo Iparragirre, blogging mainly for tech. Opinions expressed are mine."
 keywords: "smith, jones, personal, jekyll, theme"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
@@ -119,7 +119,7 @@ timeline-img: "/img/timeline/default.png"
 # Contact #
 ###########
 
-email: "your@email.here"
+email: "inigoiparraguirre@gmail.com"
 
 ##################
 # Social Buttons #
@@ -127,11 +127,11 @@ email: "your@email.here"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
+    url: "https://facebook.com/iiparragirre"
   - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://twitter.com/inigoiparra"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
+    url: "https://github.com/inigoiparragirre/inigoiparragirre.github.io"
   - title: "bitcoin"
     url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
@@ -150,7 +150,7 @@ social:
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
+  About: 'about me'
   Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
